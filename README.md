@@ -1,2 +1,3 @@
 # veeb
-Anna tunnid
+#Anna tunnid
+#Programmeerimisvahendid
