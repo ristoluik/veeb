@@ -14,5 +14,9 @@
  * kommentaar
  */
 
-
+//Teksti väljastamine
+print "See on tavaline tekst<br />\n";
+print 'See on veel üks rida tavalisest tekstist<br />';
+echo "See on tavaline tekst jutumärkides<br />\n";
+echo 'Seeon tavaline tekst ülakomades<br />';
 ?>
