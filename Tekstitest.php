@@ -26,3 +26,12 @@ print_r($mustTekst);
 echo '</pre>';
 //prindime välja
 $mustTekst->prindiTekst();
+
+require_once 'vtekst.php';
+//loome värvilise objekti
+//ja määrame sisu
+$punaneTekst = new vtekst( 'punane tekst', '#FF000');
+echo '<pre>';
+print_r($punaneTekst);
+echo '</pre>';
+$punaneTekst->prindiTekst();
