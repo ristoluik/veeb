@@ -1,3 +1,3 @@
 # veeb
 #Anna tunnid
-#Programmeerimisvahendid
+#Programmeerimisvahendite kasutamine
