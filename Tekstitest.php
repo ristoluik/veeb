@@ -30,7 +30,7 @@ $mustTekst->prindiTekst();
 require_once 'vtekst.php';
 //loome värvilise objekti
 //ja määrame sisu
-$punaneTekst = new vtekst( 'punane tekst', '#FF000');
+$punaneTekst = new vtekst( 'punane tekst', '#FF0000');
 echo '<pre>';
 print_r($punaneTekst);
 echo '</pre>';
